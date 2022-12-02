@@ -11,7 +11,7 @@ This work will require the use of some great Tableau visualizations.  We'll buil
 ## Results
 
 ### Overview
-The seven visualization we have in this challenge help to begin pointing out who is using the ride service in New York, when they are using it, and for how long they tend to use it.  It's a good beginning, but some additional visualizations could certainly help paint a more rounded picture.  Below are some comments about each visualization:
+The seven visualization we have in this challenge help to begin pointing out who is using the ride service in New York, when they are using it, and for how long they tend to use it.  It's a good beginning, but some additional visualizations could certainly help paint a more rounded picture.  Below are some comments about each visualization: [link to dashboard](https://public.tableau.com/app/profile/jacob6486/viz/CitiBikeChallenge_16700194060570/CitiBike?publish=yes "link to dashboard")
 
 ### Image by Image
 1.  Checkout Times for Users
